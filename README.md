@@ -4,11 +4,11 @@
 
 -------------------
 # Nodemon
-    Se instala nodemon de forma global ```npm i -g nodemon```
+    Se instala nodemon de forma global `npm i -g nodemon`
 
 # Comando a agregar en package.json
     Este comando se usa como shortcut para iniciar el servidor
-    ```"start:dev":"nodemon index.js"```
+    `"start:dev":"nodemon index.js"`
 
 # Comandos git
 ```
@@ -33,4 +33,4 @@ git push -u origin main
     * npm install google-auth-library --save
 
 # Correr el servidor
-    ```npm run start:dev```
+    `npm run start:dev`
